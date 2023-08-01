@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   Email: blazeinpower@gmail.com or pellesb@duq.edu
   Phone Number: 412-737-3743
-  Linkdin: https://www.linkedin.com/in/blaze-pelles-5551121b6/
+  Linkedin: https://www.linkedin.com/in/blaze-pelles-5551121b6/
 
 <!---
 Blaze-Pelles/Blaze-Pelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
